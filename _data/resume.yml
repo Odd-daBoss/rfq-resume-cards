@@ -4,9 +4,9 @@ demo: true
 # Theme customization is done on this file instead of _config.yml so that
 # you don't have to restart Jekyll to see changes.
 
-photo: "https://avatars0.githubusercontent.com/u/2410692?v=2&s=150"
-name: "Elle Kasai"
-copy: "I'm a UI/UX Developer based in Vancouver, Canada. Five years experience in design/development and my specialty is information architecture as well as rapid prototyping with scalable/modular CSS."
+photo: "https://res.cloudinary.com/sdees-reallife/image/upload/v1522753221/vector_gear_wheel_logo_idea.png"
+name: "RFQ Dashboard"
+copy: "Display of RFQ Dashboard using material card UI. Original theme is Jekyll Resumecards, designed by Elle Kasai."
 
 # Color scheme based on http://www.materialui.co/colors.
 # Possible values:
